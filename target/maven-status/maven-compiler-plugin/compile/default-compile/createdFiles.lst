@@ -1,0 +1,9 @@
+com\org1\platform\roboshop\controller\InventoryController.class
+com\org1\platform\roboshop\RoboshopPlatformApp.class
+com\org1\platform\roboshop\exception\RoboshopGlobalExcpHandlr.class
+com\org1\platform\roboshop\dao\RoboshopRepository.class
+com\org1\platform\roboshop\exception\RoboshopRootException.class
+com\org1\platform\roboshop\config\RoboshopSwaggerConfig.class
+com\org1\platform\roboshop\model\Inventory$InventoryBuilder.class
+com\org1\platform\roboshop\model\Inventory.class
+com\org1\platform\roboshop\exception\RoboshopErrorModel.class
